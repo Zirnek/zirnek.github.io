@@ -1,71 +1,71 @@
 [
   {
-    "name": "Ancient hilt",
+    "name": "Ancient_hilt",
     "quantity": "1",
     "rarity": "1/516"
   },
   {
-    "name": "Nihil horn",
+    "name": "Nihil_horn",
     "quantity": "1",
     "rarity": "1/258"
   },
   {
-    "name": "Torva full helm (damaged)",
+    "name": "Torva_full_helm_(damaged)",
     "quantity": "1",
     "rarity": "1/258"
   },
   {
-    "name": "Torva platebody (damaged)",
+    "name": "Torva_platebody_(damaged)",
     "quantity": "1",
     "rarity": "1/258"
   },
   {
-    "name": "Torva platelegs (damaged)",
+    "name": "Torva_platelegs_(damaged)",
     "quantity": "1",
     "rarity": "1/258"
   },
   {
-    "name": "Zaryte vambraces",
+    "name": "Zaryte_vambraces",
     "quantity": "1",
     "rarity": "1/172"
   },
   {
-    "name": "Air rune",
+    "name": "Air_rune",
     "quantity": "123-1365",
     "rarity": "Uncommon"
   },
   {
-    "name": "Fire rune",
+    "name": "Fire_rune",
     "quantity": "210-1655",
     "rarity": "Uncommon"
   },
   {
-    "name": "Blood rune",
+    "name": "Blood_rune",
     "quantity": "84-325",
     "rarity": "Common"
   },
   {
-    "name": "Death rune",
+    "name": "Death_rune",
     "quantity": "85-170",
     "rarity": "Common"
   },
   {
-    "name": "Water rune",
+    "name": "Water_rune",
     "quantity": "193-1599",
     "rarity": "Uncommon"
   },
   {
-    "name": "Soul rune",
+    "name": "Soul_rune",
     "quantity": "86-227",
     "rarity": "Common"
   },
   {
-    "name": "Dragon bolts (unf)",
+    "name": "Dragon_bolts_(unf)",
     "quantity": "12-90",
     "rarity": "Common"
   },
   {
-    "name": "Onyx bolts (e)",
+    "name": "Onyx_bolts_(e)",
     "quantity": "11-29",
     "rarity": "Uncommon"
   },
@@ -75,33 +75,33 @@
     "rarity": "Common"
   },
   {
-    "name": "Air orb",
-    "quantity": "6-20 (noted)",
+    "name": "Air_orb",
+    "quantity": "6-20_(noted)",
     "rarity": "Common"
   },
   {
     "name": "Coal",
-    "quantity": "23-95 (noted)",
+    "quantity": "23-95_(noted)",
     "rarity": "Uncommon"
   },
   {
-    "name": "Runite ore",
-    "quantity": "2-30 (noted)",
+    "name": "Runite_ore",
+    "quantity": "2-30_(noted)",
     "rarity": "Uncommon"
   },
   {
-    "name": "Uncut ruby",
-    "quantity": "3-26 (noted)",
+    "name": "Uncut_ruby",
+    "quantity": "3-26_(noted)",
     "rarity": "Common"
   },
   {
-    "name": "Uncut diamond",
-    "quantity": "3-17 (noted)",
+    "name": "Uncut_diamond",
+    "quantity": "3-17_(noted)",
     "rarity": "Common"
   },
   {
-    "name": "Wine of zamorak",
-    "quantity": "4-14 (noted)",
+    "name": "Wine_of_zamorak",
+    "quantity": "4-14_(noted)",
     "rarity": "Common"
   },
   {
@@ -110,22 +110,22 @@
     "rarity": "Common"
   },
   {
-    "name": "Prayer potion(4)",
+    "name": "Prayer_potion(4)",
     "quantity": "1",
     "rarity": "Common"
   },
   {
-    "name": "Saradomin brew(4)",
+    "name": "Saradomin_brew(4)",
     "quantity": "2",
     "rarity": "Common"
   },
   {
-    "name": "Super restore(4)",
+    "name": "Super_restore(4)",
     "quantity": "1",
     "rarity": "Common"
   },
   {
-    "name": "Blood essence",
+    "name": "Blood_essence",
     "quantity": "1-2",
     "rarity": "1/82"
   },
@@ -135,27 +135,27 @@
     "rarity": "Uncommon"
   },
   {
-    "name": "Rune sword",
+    "name": "Rune_sword",
     "quantity": "1",
     "rarity": "1/209"
   },
   {
-    "name": "Ecumenical key shard",
+    "name": "Ecumenical_key_shard",
     "quantity": "6-39",
     "rarity": "Common"
   },
   {
-    "name": "Nihil shard",
+    "name": "Nihil_shard",
     "quantity": "80-85",
     "rarity": "5/82"
   },
   {
-    "name": "Nihil shard",
+    "name": "Nihil_shard",
     "quantity": "85-95",
     "rarity": "8/209"
   },
   {
-    "name": "Clue scroll (elite)",
+    "name": "Clue_scroll_(elite)",
     "quantity": "1",
     "rarity": "1/48"
   },
